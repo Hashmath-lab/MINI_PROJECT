@@ -1,3 +1,7 @@
 # MINI_PROJECT
 Java program
-ider program lhikna
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
